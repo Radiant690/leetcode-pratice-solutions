@@ -22,7 +22,5 @@ class Solution {
 //            if(isVowel(s.charAt(i))) answer++;
 //            if(isVowel(s.charAt(j))) answer--;
 //        }
-
-
     }
 }
