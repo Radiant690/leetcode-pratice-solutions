@@ -13,5 +13,16 @@ class Solution {
             if(isVowel(s.charAt(j))) cnt_another_half++;
         }
         return cnt_another_half == cnt_half;
+
+//        Same can be done instead by incrementing result in right side of string and decrementing in the left side
+//        Now simply return true if result == 0
+//
+//        int answer = 0;
+//        for (int i = 0, j = l; i < l; i++, j++) {
+//            if(isVowel(s.charAt(i))) answer++;
+//            if(isVowel(s.charAt(j))) answer--;
+//        }
+
+
     }
 }
