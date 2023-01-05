@@ -40,7 +40,5 @@ public class ArrayList1 {
 
     // * 2d multi arraylist
     ArrayList<ArrayList<Integer>> list2d = new ArrayList<>();
-    ArrayList
-
   }
 }
