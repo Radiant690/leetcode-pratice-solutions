@@ -1,7 +1,10 @@
 public class ArrrayList {
-  
+
 }
 
-public class ArrrayList<T> {
-
+public class ArrrayList1<T> {
+  Private ArrayList1<>
+  {
+    System.out.println();
+  }
 }
