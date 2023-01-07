@@ -23,6 +23,7 @@ class UniqueCharacters {
             // vital result, if given
             return false;
           }
+          // Mentionable activity : The following logic is specific to the unique character program
         } else {
           System.out.println("The given string contains unallowed characters");
           return false;
